@@ -12,3 +12,5 @@ To achieve the dynamic blocks and geometric patterns reminiscent of "Broadway Bo
 
 Sample Implementation Link: p5.js Geometry and Animation Example
 This coding technique will assist in realizing the dynamic blocks and geometric patterns featured in "Broadway Boogie Woogie," thereby adding visual delight and artistic flair to my Pac-Man game.
+![Image Description](WechatIMG269.jpg)
+![Image Description](WechatIMG270.jpg)
