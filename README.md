@@ -1,4 +1,4 @@
-# idea_9103_fred
+#xili0210_9103_tut10
 Part 1: Imaging Technique Inspiration:
 I've chosen Piet Mondrian's artwork "Broadway Boogie Woogie" as my inspiration. Renowned for its vibrant colors and geometric shapes, especially the dynamic relationships between the red, blue, and yellow blocks, this abstract masterpiece captivates with its rhythm. I aim to infuse this dynamic and brightness into my Pac-Man game. By integrating similar blocks and geometric patterns onto the game map, I can modernize its aesthetic, enhancing visual appeal while paying homage to Mondrian's artistry.
 
